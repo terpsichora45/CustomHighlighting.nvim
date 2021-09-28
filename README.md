@@ -2,6 +2,8 @@
 This Custom Highlighting plugin for Neovim works with vim-plug, but I haven't tested
 it out for any other neovim plugin manager. 
 
+![Screnshot](images/CustomHighlightingScreenshot.png)
+
 ## Insallation
 To install this plugin, simply clone the git repository into your plugin folder and add
 ```vim
