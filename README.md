@@ -1,0 +1,1 @@
+# CustomHighlighting.nvim
