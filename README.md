@@ -1,4 +1,6 @@
 # CustomHighlighting.nvim
+Note: This project is in the earliest of stages. Modular systems are virtually non-existent, but there are plans for them in the future.
+
 This Custom Highlighting plugin for Neovim works with vim-plug, but I haven't tested
 it out for any other neovim plugin manager. 
 
