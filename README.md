@@ -13,5 +13,16 @@ require'highlight'.start()
 ```
 to your lua section/file.
 
+## Furher Workings
+If you are using a plugin that manages files, like Nvim-tree, then I would recommend you add the line
+```lua
+require'highlight'.start()
+```
+to line 397 of lib.lua within the nvim-tree.lua/lua/nvim-tree/ directory.
 
+
+## TODO
+- [ ] Setup dashboard-nvim with the plugin to make it work
+- [ ] Incorporate an init.vim global settings section to make the system easier to customize
+- [ ] Set up a more modular filetype system
 
